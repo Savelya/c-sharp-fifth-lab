@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "fourrth_lab/1.0.0": {
+        "runtime": {
+          "fourrth_lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fourrth_lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

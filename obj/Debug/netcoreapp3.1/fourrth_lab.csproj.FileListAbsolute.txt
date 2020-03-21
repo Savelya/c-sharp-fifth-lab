@@ -1,0 +1,11 @@
+C:\Users\Savelya\Desktop\c#\fourrth_lab\bin\Debug\netcoreapp3.1\fourrth_lab.exe
+C:\Users\Savelya\Desktop\c#\fourrth_lab\bin\Debug\netcoreapp3.1\fourrth_lab.deps.json
+C:\Users\Savelya\Desktop\c#\fourrth_lab\bin\Debug\netcoreapp3.1\fourrth_lab.runtimeconfig.json
+C:\Users\Savelya\Desktop\c#\fourrth_lab\bin\Debug\netcoreapp3.1\fourrth_lab.runtimeconfig.dev.json
+C:\Users\Savelya\Desktop\c#\fourrth_lab\bin\Debug\netcoreapp3.1\fourrth_lab.dll
+C:\Users\Savelya\Desktop\c#\fourrth_lab\bin\Debug\netcoreapp3.1\fourrth_lab.pdb
+C:\Users\Savelya\Desktop\c#\fourrth_lab\obj\Debug\netcoreapp3.1\fourrth_lab.csprojAssemblyReference.cache
+C:\Users\Savelya\Desktop\c#\fourrth_lab\obj\Debug\netcoreapp3.1\fourrth_lab.AssemblyInfoInputs.cache
+C:\Users\Savelya\Desktop\c#\fourrth_lab\obj\Debug\netcoreapp3.1\fourrth_lab.AssemblyInfo.cs
+C:\Users\Savelya\Desktop\c#\fourrth_lab\obj\Debug\netcoreapp3.1\fourrth_lab.dll
+C:\Users\Savelya\Desktop\c#\fourrth_lab\obj\Debug\netcoreapp3.1\fourrth_lab.pdb
